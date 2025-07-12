@@ -28,7 +28,7 @@
       "extern/libs"
     ],
     "qmodIncludeFiles": [],
-    "qmodOutput": null
+    "qmodOutput": "Nya.qmod"
   },
   "dependencies": [
     {
@@ -38,12 +38,12 @@
     },
     {
       "id": "bs-cordl",
-      "versionRange": "4006.*",
+      "versionRange": "4007.*",
       "additionalData": {}
     },
     {
       "id": "bsml",
-      "versionRange": "^0.4.53",
+      "versionRange": "^0.4.54",
       "additionalData": {}
     },
     {
