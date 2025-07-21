@@ -7,7 +7,7 @@ using namespace NyaAPI;
 inline std::map<std::string, NyaAPI::SourceData> endpoint_data = {
     {"fluxpoint.dev",
         {
-            "https://corsproxy.io/?url=https://gallery.fluxpoint.dev/api/",
+            "https://gallery.fluxpoint.dev/api/",
             DataMode::Authenticated,
             {
                 // Images
@@ -117,7 +117,7 @@ inline std::map<std::string, NyaAPI::SourceData> endpoint_data = {
     },
     {"waifu.pics",
         {
-            "https://corsproxy.io/?url=https://api.waifu.pics/",
+            "https://api.waifu.pics/",
             DataMode::Json,
             {
                 {"neko", "sfw/neko"},
